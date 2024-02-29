@@ -2,7 +2,7 @@ repo_name: 2lambda123/AzureBot
 report_id: 472d61a08c4dfb477061f09362895f68
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:56:03+00:00'
+timestamp: '2024-02-29T19:15:59+00:00'
 requested_by: snorkell-ai[bot]
 provider: github
 branch: beta
@@ -658,6 +658,19 @@ tools:
   detection_source: AzureBot.Services.Common/packages.config
   last_updated_by: Thiago Almeida
   last_updated_on: 2016-12-08 00:56:26.000000000 Z
+  vulnerabilities:
+  - name: Microsoft Identity Denial of service vulnerability
+    cve_id: CVE-2024-21319
+    cve_url: https://github.com/advisories/GHSA-8g9c-28fc-mcx2
+    detected_date: Jan 10
+    severity: moderate
+    first_patched: 5.7.0
+  - name: 'Microsoft Security Advisory CVE-2024-21319: .NET Denial of Service Vulnerability'
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-59j7-ghrg-fj52
+    detected_date: Jan 10
+    severity: moderate
+    first_patched: 5.7.0
 - name: System.Linq
   description: Provides classes and interfaces that supports queries that use Language-Integrated
     Query

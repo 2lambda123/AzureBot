@@ -3,16 +3,16 @@
 ## Tech Stack
 2lambda123/AzureBot is built on the following main stack:
 
-- [Microsoft Azure](https://azure.microsoft.com/en-us/) – Cloud Hosting
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [ASP.NET](https://www.asp.net/) – Languages
 - [C#](http://csharp.net) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- [Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) – Password Management
-- [JSON Web Token](http://jwt.io/) – User Management and Authentication
-- [ASP.NET](https://www.asp.net/) – Languages
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [AutoFac](https://autofac.org/) – Container Tools
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- [Microsoft Azure](https://azure.microsoft.com/en-us/) – Cloud Hosting
+- [Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) – Password Management
+- [JSON Web Token](http://jwt.io/) – User Management and Authentication
 
 Full tech stack [here](/techstack.md)
 
@@ -22,16 +22,16 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/AzureBot is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/213/default_88defae415fcb9cd0ac5d36c1ed27e74133c6287.jpg' alt='Microsoft Azure'/> [Microsoft Azure](https://azure.microsoft.com/en-us/) – Cloud Hosting
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png' alt='ASP.NET'/> [ASP.NET](https://www.asp.net/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- <img width='25' height='25' src='https://img.stackshare.io/service/6346/icon.png' alt='Azure Active Directory'/> [Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) – Password Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/6417/jwt-icon.png' alt='JSON Web Token'/> [JSON Web Token](http://jwt.io/) – User Management and Authentication
-- <img width='25' height='25' src='https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png' alt='ASP.NET'/> [ASP.NET](https://www.asp.net/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/6953/default_17650e39faa714f82fcdb12b14af73c704a15d2f.jpg' alt='AutoFac'/> [AutoFac](https://autofac.org/) – Container Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/213/default_88defae415fcb9cd0ac5d36c1ed27e74133c6287.jpg' alt='Microsoft Azure'/> [Microsoft Azure](https://azure.microsoft.com/en-us/) – Cloud Hosting
+- <img width='25' height='25' src='https://img.stackshare.io/service/6346/icon.png' alt='Azure Active Directory'/> [Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) – Password Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/6417/jwt-icon.png' alt='JSON Web Token'/> [JSON Web Token](http://jwt.io/) – User Management and Authentication
 
 Full tech stack [here](/techstack.md)
 
@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/AzureBot](https://github.com/2lambda123/AzureBot)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|67<br/>Tools used|01/09/24 <br/>Report generated|
+|67<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -212,7 +212,7 @@ Full tech stack [here](/techstack.md)
 |[System.Diagnostics.DiagnosticSource](https://www.nuget.org/System.Diagnostics.DiagnosticSource)|v4.0.0|12/08/16|Thiago Almeida |MIT|N/A|
 |[System.Globalization](https://www.nuget.org/System.Globalization)|v4.0.11|12/08/16|Thiago Almeida |N/A|N/A|
 |[System.IO](https://www.nuget.org/System.IO)|v4.1.0|12/08/16|Thiago Almeida |N/A|N/A|
-|[System.IdentityModel.Tokens.Jwt](https://www.nuget.org/System.IdentityModel.Tokens.Jwt)|v4.0.3|12/08/16|Thiago Almeida |MIT|N/A|
+|[System.IdentityModel.Tokens.Jwt](https://www.nuget.org/System.IdentityModel.Tokens.Jwt)|v4.0.3|12/08/16|Thiago Almeida |MIT|[CVE-2024-21319](https://github.com/advisories/GHSA-8g9c-28fc-mcx2) (Moderate)<br/>[](https://github.com/advisories/GHSA-59j7-ghrg-fj52) (Moderate)|
 |[System.Linq](https://www.nuget.org/System.Linq)|v4.1.0|12/08/16|Thiago Almeida |N/A|N/A|
 |[System.Net.Http](https://www.nuget.org/System.Net.Http)|v4.0.0|12/08/16|Thiago Almeida |N/A|[CVE-2018-8292](https://github.com/advisories/GHSA-7jgj-8wvc-jh57) (High)|
 |[System.Net.Primitives](https://www.nuget.org/System.Net.Primitives)|v4.0.11|03/07/17|Thiago Almeida |N/A|N/A|
